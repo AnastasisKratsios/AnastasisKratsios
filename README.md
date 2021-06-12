@@ -11,6 +11,8 @@ I develop efficient geometric deep learning tools that leverage the non-Euclidea
 - A. Kratsios: [Universal Regular Conditional Distributions via Probability Measure-Valued Deep Neural Models](https://arxiv.org/abs/2105.07743), *submitted*, 2021.
 ### Meta-Optimization
 - A. Kratsios, [P. Casgrain](https://p-casgrain.github.io/): [Optimizing Optimizers: Regret-optimal gradient descent algorithms](https://arxiv.org/abs/2101.00041), COLT - 34th Conference on Learning Theory, 2021.
+### Abstract Approximation Theory
+- A. Kratsios: [The Universal Approximation Property](https://link.springer.com/article/10.1007/s10472-020-09723-1), Annals of Mathematics and Artificial Intelligence, 2021.
 
 
 ## Follow Me:
