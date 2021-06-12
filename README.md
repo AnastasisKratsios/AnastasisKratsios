@@ -1,5 +1,5 @@
 # *Geometric Deep Learning for Quantitative Finance*
-I develop efficient geometric deep learning architectures and meta-procedures that leverage non-Euclidean structure permeating the contemporary financial landscape.
+I develop efficient geometric deep learning tools that leverage the non-Euclidean structure permeating the contemporary financial landscape.
 
 ![alt text](https://github.com/AnastasisKratsios/NeurIPS2020_Non_Euclidean_Universal_Approximation_Example_DNN_Layer_Comparisons/blob/master/Pictorial_Summary_NonEuclidean_Universal_Approximation.png)
 
