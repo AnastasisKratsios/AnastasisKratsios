@@ -1,6 +1,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](9D-bHFgAAAAJ&hl) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://people.math.ethz.ch/~kratsioa/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anastasiskratsios/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/284090)  
 # *Geometric Deep Learning for Quantitative Finance*
 
+![alt text](https://github.com/AnastasisKratsios/NeurIPS2020_Non_Euclidean_Universal_Approximation_Example_DNN_Layer_Comparisons/blob/master/Pictorial_Summary_NonEuclidean_Universal_Approximation.png)
 
 ## Perspective
 I develop efficient geometric deep learning architectures and meta-procedures that leverage non-Euclidean structure permeating the contemporary financial landscape.
