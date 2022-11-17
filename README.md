@@ -1,19 +1,60 @@
-# *Geometric Deep Learning for Quantitative Finance*
-I develop efficient geometric deep learning tools that leverage the non-Euclidean structure permeating the contemporary financial landscape.
+**Geometric Deep Learning and Stochastics**
 
-![alt text](https://github.com/AnastasisKratsios/NeurIPS2020_Non_Euclidean_Universal_Approximation_Example_DNN_Layer_Comparisons/blob/master/Pictorial_Summary_NonEuclidean_Universal_Approximation.png)
+## Specialization
+I develop and study universal deep learning models that leverage the infinite-dimensional curved geometries arising in stochastic analysis and mathematical finance.  
+
+
+## Expertise:
+### Mathematics:
+Approximation theory, analysis on metric spaces, geometric topology, mathematical finance, optimal transport.
+### Data Science and ML:
+Geometric deep learning, approximation theory of deep neural networks, meta-learning.  
+
+
 
 ## Select Papers
-### Geometric Deep Learning
+- A. Kratsios, [L. Papon](https://www.durham.ac.uk/staff/leonie-b-papon/): [Universal Approximation Theorems for Differentiable Geometric Deep Learning](https://www.jmlr.org/papers/v23/21-0716.html), *JMLR - Journal of Machine Learning Research*, 2022.
+- A. Kratsios, [B. Zamanlooy](https://bzamanlooy.github.io/), [I. Dokmanic](https://dmi.unibas.ch/de/personen/ivan-dokmanic/), [T. Liu](http://tianlinliu.com/): [Universal Approximation Under Constraints is Possible with Transformers](https://openreview.net/forum?id=JGO8CvG5S9), ICLR - International Conference on Learning Representations, 2022 **Spotlight**.
 - A. Kratsios and [C. Hyndman](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=cody-hyndman): [NEU: A Meta-Algorithm for Universal UAP-Invariant Feature Representation](https://www.jmlr.org/papers/v22/18-803.html), JMLR - Journal of Machine Learning Research - Volume 22, 2021.
-- A. Kratsios, [E. Bilokopytov](https://orcid.org/0000-0001-7075-886X): [Non-Euclidean Universal Approximation](https://proceedings.neurips.cc/paper/2020/file/786ab8c4d7ee758f80d57e65582e609d-Paper.pdf), NeurIPS - 33rd Conference on Neural Information Processing Systems, 2020.  [poster](https://www.dropbox.com/s/yy4rkkjrtyw1kk2/NeurIPS2020_Poster.pdf?dl=0).
-### Measure-Valued Neural Networks
-- A. Kratsios: [Universal Regular Conditional Distributions via Probability Measure-Valued Deep Neural Models](https://arxiv.org/abs/2105.07743), *submitted*, 2021.
-### Meta-Optimization
-- A. Kratsios, [P. Casgrain](https://p-casgrain.github.io/): [Optimizing Optimizers: Regret-optimal gradient descent algorithms](https://arxiv.org/abs/2101.00041), COLT - 34th Conference on Learning Theory, 2021.
-### Abstract Approximation Theory
-- A. Kratsios: [The Universal Approximation Property](https://link.springer.com/article/10.1007/s10472-020-09723-1), Annals of Mathematics and Artificial Intelligence, 2021.
+
+## News: Hot off the press
+- A. Kratsios, S. Hou, P. Kassraie, J. Rothfuss, A. Krause, [Instance-Dependent Generalization Bounds via Optimal Transport](https://www.researchgate.net/publication/365014059_Instance-Dependent_Generalization_Bounds_via_Optimal_Transport), *Submitted*, 2022.
+- L. Galimberti, G. Livieri, A. Kratsios: [Designing Universal Causal Deep Learning Models: The Case of Infinite-Dimensional Dynamical Systems from Stochastic Analysis](https://www.researchgate.net/publication/364639293_Designing_Universal_Causal_Deep_Learning_Models_The_Case_of_Infinite-Dimensional_Dynamical_Systems_from_Stochastic_Analysis), *submitted*, 2022.
+- [A. Acciaio](https://people.math.ethz.ch/~beacciaio/), A. Kratsios, and [G. Pammer](https://people.math.ethz.ch/~gpammer/): [Metric Hypertransformers are Universal Adapted Maps](https://www.researchgate.net/publication/358232084_Metric_Hypertransformers_are_Universal_Adapted_Maps), *(small revision)* Mathematical Finance, 2022.
 
 
-## Follow Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](9D-bHFgAAAAJ&hl) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://people.math.ethz.ch/~kratsioa/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anastasiskratsios/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/284090)  
+## Select Contributions
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4mCE12zsOoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+### Geometric Deep Learning
+- Developed the first neural model which can proveably approximate any function while implementing exact constraint satisfaction *with* [B. Zamanlooy](https://bzamanlooy.github.io/), [I. Dokmanic](https://dmi.unibas.ch/de/personen/ivan-dokmanic/), [T. Liu](http://tianlinliu.com).
+- Developed a simple framework for building universal approximators between any differentiable manifold *with* [L. Papon](https://people.epfl.ch/leonie.papon) and [E. Bilokopytov](https://orcid.org/0000-0001-7075-886X).
+- Introduced the universal first class of universal feature maps which preserve the universal approximation property (UAP-Invariance) *with* [C. Hyndman](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=cody-hyndman).  
+- Identified the first known homotopic obstructions to non-Euclidean universal approximation *with* [L. Papon](https://people.epfl.ch/leonie.papon).
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlKUQHnIoe0?start=524" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+### Foundations of Data Science
+- Developed the first probability-measure valued universal approximator and showed that it can approximate any regular conditional distribution. 
+- Identified connections between optimization and stochastic control and used it to build the first regret-optimal online meta-optimization procedure *with* [P. Casgrain](https://p-casgrain.github.io/).
+- Developed the first deep neural model capable of uniformly approximating any piecewise continuous function with finitely many pieces *with* [B. Zamanlooy](https://bzamanlooy.github.io/),
+
+![Long Horizon Time-Series Prediction](/images/Finance_prediction.png)
+
+### Machine Learning for Mathematical Finance
+- Introduced the first penalty for arbitrage-free learning *with* [C. Hyndman](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=cody-hyndman). 
+- Introduce fastest matrix completion algorithm for rapid low-rank + sparse decomposition of asset's covariance matrices *with* [J. Teichmann](https://people.math.ethz.ch/~jteichma/), [C. Herrera](https://people.math.ethz.ch/~cherrera/), [F. Krach](https://people.math.ethz.ch/~fkrach/about), and [P. Ruyssen](https://scholar.google.com/citations?user=euY7T4wAAAAJ&hl=fr).
+
+
+#### Links:
+- [Google Scholar](https://scholar.google.ca/citations?user=9D-bHFgAAAAJ&hl=en)
+- [Github](https://github.com/AnastasisKratsios)
+- [Researchgate](https://www.researchgate.net/profile/Anastasis_Kratsios3)
+- [MathOverflow](https://mathoverflow.net/users/284090/anastasis)
+- [ArXiv](https://arxiv.org/search/?searchtype=author&query=Kratsios%2C+A)
+- [LinkedIn](https://www.linkedin.com/in/anastasiskratsios/)
