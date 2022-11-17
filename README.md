@@ -23,11 +23,6 @@ Geometric deep learning, approximation theory of deep neural networks, meta-lear
 - [A. Acciaio](https://people.math.ethz.ch/~beacciaio/), A. Kratsios, and [G. Pammer](https://people.math.ethz.ch/~gpammer/): [Metric Hypertransformers are Universal Adapted Maps](https://www.researchgate.net/publication/358232084_Metric_Hypertransformers_are_Universal_Adapted_Maps), *(small revision)* Mathematical Finance, 2022.
 
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1v8ySx4nARI-MkVLxmhx204Rk4Xe68E8g/view?usp=sharing" width="350" title="hover text">
-  <img src="https://drive.google.com/file/d/1v8ySx4nARI-MkVLxmhx204Rk4Xe68E8g/view?usp=sharing" width="350" alt="accessibility text">
-</p>
-
 ## Select Contributions
 
 
