@@ -22,12 +22,11 @@ Geometric deep learning, approximation theory of deep neural networks, meta-lear
 - L. Galimberti, G. Livieri, A. Kratsios: [Designing Universal Causal Deep Learning Models: The Case of Infinite-Dimensional Dynamical Systems from Stochastic Analysis](https://www.researchgate.net/publication/364639293_Designing_Universal_Causal_Deep_Learning_Models_The_Case_of_Infinite-Dimensional_Dynamical_Systems_from_Stochastic_Analysis), *submitted*, 2022.
 - [A. Acciaio](https://people.math.ethz.ch/~beacciaio/), A. Kratsios, and [G. Pammer](https://people.math.ethz.ch/~gpammer/): [Metric Hypertransformers are Universal Adapted Maps](https://www.researchgate.net/publication/358232084_Metric_Hypertransformers_are_Universal_Adapted_Maps), *(small revision)* Mathematical Finance, 2022.
 
+![alt text](https://drive.google.com/file/d/1v8ySx4nARI-MkVLxmhx204Rk4Xe68E8g/view?usp=sharing)
+
 
 ## Select Contributions
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4mCE12zsOoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ### Geometric Deep Learning
 - Developed the first neural model which can proveably approximate any function while implementing exact constraint satisfaction *with* [B. Zamanlooy](https://bzamanlooy.github.io/), [I. Dokmanic](https://dmi.unibas.ch/de/personen/ivan-dokmanic/), [T. Liu](http://tianlinliu.com).
@@ -35,16 +34,12 @@ Geometric deep learning, approximation theory of deep neural networks, meta-lear
 - Introduced the universal first class of universal feature maps which preserve the universal approximation property (UAP-Invariance) *with* [C. Hyndman](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=cody-hyndman).  
 - Identified the first known homotopic obstructions to non-Euclidean universal approximation *with* [L. Papon](https://people.epfl.ch/leonie.papon).
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dlKUQHnIoe0?start=524" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ### Foundations of Data Science
 - Developed the first probability-measure valued universal approximator and showed that it can approximate any regular conditional distribution. 
 - Identified connections between optimization and stochastic control and used it to build the first regret-optimal online meta-optimization procedure *with* [P. Casgrain](https://p-casgrain.github.io/).
 - Developed the first deep neural model capable of uniformly approximating any piecewise continuous function with finitely many pieces *with* [B. Zamanlooy](https://bzamanlooy.github.io/),
 
-![Long Horizon Time-Series Prediction](/images/Finance_prediction.png)
 
 ### Machine Learning for Mathematical Finance
 - Introduced the first penalty for arbitrage-free learning *with* [C. Hyndman](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=cody-hyndman). 
