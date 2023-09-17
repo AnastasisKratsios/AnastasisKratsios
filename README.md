@@ -1,3 +1,5 @@
+![alt text](https://github.com/AnastasisKratsios/RandomStuff/blob/main/I_review_JMLR.gif?raw=true)
+
 **Geometric Deep Learning and Stochastics**
 
 ## Specialization
